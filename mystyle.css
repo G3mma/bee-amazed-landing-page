@@ -1,9 +1,11 @@
 body {
   background-color: #EBAF4C;
+  font-family: calibri, "Times New Roman", sans-serif;
   }
   
 h1 {
   color: #a98307;
+  font-style: bold ;
   }
   
 p {
