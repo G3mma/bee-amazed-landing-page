@@ -12,7 +12,3 @@ h1 {
 h2 {
   color: #FBE2A1;
   }
-
-ul.checkmark li:before {
-    content:"\2713\0020";
-}
